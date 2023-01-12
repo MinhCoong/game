@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999437655343",
+    "project_id": "dc-marvel-deb5f",
+    "storage_bucket": "dc-marvel-deb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999437655343:android:c9b4491c43d997b7bad5da",
+        "android_client_info": {
+          "package_name": "com.example.dc_marvel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999437655343-fokef32ckbbjcuodnhebquf91fprouqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xAW5Ry-MhmKLcVZVYvjckHnGrxjG0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999437655343-fokef32ckbbjcuodnhebquf91fprouqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
